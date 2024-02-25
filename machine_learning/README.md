@@ -1,8 +1,4 @@
-# predicting-plant-watering
-
-Using Machine Learning to predict plant watering.
-
-The current work is the final project for the CM3070 module of the BSc Computer Science (Machine Learning and Artificial Intelligence) programme by University of London.
+# Component - Machine Learning
 
 ## Requirements
 
